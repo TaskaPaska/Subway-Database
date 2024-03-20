@@ -2,6 +2,12 @@
 
 This project consists of a physical and a logical database model for a subway/metro system. The database is organized in third normal form (3NF), designed to be realistic.
 
+
+## ER Diagram
+
+![ER Diagram](ER_Diagram.png)
+
+
 Here's what each file represents:
 
 - **Subway_Database_Descriptions.docx:** This file contains detailed descriptions of the business model, including database tables, columns, and other relevant information.
